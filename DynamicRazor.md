@@ -101,6 +101,8 @@ dotnet add package nulastudio.NetBeauty
 
 然后编译发布的时候，目录变干净了，只有寥寥几个核心的dll文件，也方便对项目进行更新
 
+示例Demo [RazorDom](RazorDom.zip)
+
 
 Enjoy～  ^_^
 
