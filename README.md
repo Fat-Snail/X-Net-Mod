@@ -6,6 +6,8 @@
 * [服务接口反爬虫设计](Encrypt.md) 
 * [全站静态化](HtmlGanerate.md)
 * [动态编译Razor页面](DynamicRazor.md)
+* [MinMvvm](Mvvm.md)
+* [SimpleMapper](SimpleMapper.md)
 
 
 
