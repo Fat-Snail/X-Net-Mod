@@ -25,7 +25,7 @@
 
 接下来，我们通过代码进行重置。假设我们使用 Newlife.X.Code 组件新建一个 SQLite 数据库用于保存用户信息，然后手动删除新增的 `Membership.db`，接着点击新增用户时，看看是否会报 `no such table` 的错误。
 
-![image](/Assets/zl-2s.png)
+![image](/Assets/zl-2.png)
 
 ```csharp
 private void button1_Click(object sender, EventArgs e)
