@@ -8,6 +8,7 @@
 * [动态编译Razor页面](DynamicRazor.md)
 * [MinMvvm](Mvvm.md)
 * [SimpleMapper](SimpleMapper.md)
+* [Mini-DLL - .NET 程序集清理工具](Mini-DLL.md)
 * [魔方OAuth2.0](Sso/sso_server.md)
 
 
